@@ -1,0 +1,14 @@
+# Logs & temp
+*.log
+*.tmp
+*.bak
+*.dat
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Catatan: .ex5 SENGAJA ikut di-commit.
+# Beberapa versi (v4.10_opt, StraddleBreakout_XAU) hanya tersedia
+# sebagai binary tanpa source .mq5.

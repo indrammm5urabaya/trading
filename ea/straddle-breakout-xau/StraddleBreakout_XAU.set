@@ -1,0 +1,18 @@
+; StraddleBreakout_XAU — preset hasil optimasi
+; Catatan: TIDAK ada setup yang benar-benar profitable & konsisten.
+; Preset ini = paling "tidak jelek" (mendekati breakeven) dari hasil sweep.
+; Gunakan hanya untuk riset, bukan rekomendasi trading.
+
+InpSymbol=
+InpTF=16385
+InpLot=0.01
+InpDistPts=200
+InpSLPts=1500
+InpTPPts=800
+InpOCO=false
+InpExpireSec=0
+InpAddOnTrend=false
+InpAddStepPts=300
+InpMaxPositions=1
+InpMagic=20251001
+InpSlippage=30
